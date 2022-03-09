@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node":"16.13.2"
+  },
   "name": "fresh_fruits",
   "version": "1.0.0",
   "description": "",
